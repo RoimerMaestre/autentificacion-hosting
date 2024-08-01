@@ -42,9 +42,11 @@ Guardado de Estado del Usuario: El estado de autenticación del usuario se gesti
 </li>
 </ul>
 
-<!-- nota : falta complementar un cierre de sesion, y un aviso cuando no tenga un correo valido. 
+<!-- nota : 
 
-nos guiamos basicamente con lo que el profesor realizo -->
+Falta complementar un cierre de sesion, y un aviso cuando no tenga un correo valido. 
+Por alguna razpn despues del login al recargar la pagina se cae, no entiendo porque, con el npm run serve no me ocurre, pero una vez esta montado si pasa.
+Nos guiamos basicamente con lo que el profesor realizo. -->
 
 
 
