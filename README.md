@@ -42,7 +42,9 @@ Guardado de Estado del Usuario: El estado de autenticación del usuario se gesti
 </li>
 </ul>
 
+<!-- nota : falta complementar un cierre de sesion, y un aviso cuando no tenga un correo valido. 
 
+nos guiamos basicamente con lo que el profesor realizo -->
 
 
 
